@@ -1,16 +1,16 @@
-Predictive Modeling - Rain Prediction in Australia
+# Predictive Modeling - Rain Prediction in Australia
 
 
-Problem Statement:
+## Problem Statement:
 Predictive model on Rain Dataset to predict whether or not it will rain tomorrow in Australia
 
-Data Source:
+## Data Source:
 The dataset is taken from Kaggle and contains about 10 years of daily weather observations from many locations across Australia.
 
-Demo:
+## Demo:
 
 
-Project Folder Structure:
+### Project Folder Structure:
 .(site root)
 ├── weatherAUS.csv
 └── Pickle_Files
